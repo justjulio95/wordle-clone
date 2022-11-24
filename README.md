@@ -10,6 +10,7 @@ This is a basic clone of the popular game Wordle. A user gets 6 attemps to guess
 * [License](#License)
 * [Contributing](#Contributing)
 * [Tests](#Tests)
+* [Deployed-Site](#Deployed-Site)
 * [Questions](#Questions)
 
 ## Installation
@@ -31,6 +32,9 @@ To contribute to this project, please fork and push to a new branch and contact 
 To run tests, run the following command:
 
 There are currently no tests to run on this application.
+
+## Deployed-Site
+Play with the [Wordle Clone](https://blooming-eyrie-47846.herokuapp.com/) here.
 
 ## Questions
 If there are any questions concerning this project, please open an issue or contact me directly at just.julio95@gmail.com.
